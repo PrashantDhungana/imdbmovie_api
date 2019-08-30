@@ -1,4 +1,4 @@
-# imdbmovie_api
+# IMDB Movie API Project
 This is a Project which takes Movie names as input from from user and based upon the input, the details about 
 that Movie is genarated.
 The details include:
